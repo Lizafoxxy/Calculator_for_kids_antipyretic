@@ -1,0 +1,1 @@
+This is a handy calculator for kids antipyretic allowing to quickly calculate the required amount of medecine depending on the trademark of the medicine (i.e. the concentration of the active substance) and the kid's weight. For some instances the code envisages specific restirctions for use of the medicine depending on the kids weight and age. 
